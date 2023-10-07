@@ -7,7 +7,7 @@ on:
 
 jobs:
     helloWorld:
-        runs-on: ubuntu-latest-18.04
+        runs-on: ubuntu-18.04
 
         steps:
             - name: Echo the message
